@@ -1,5 +1,4 @@
 avocado
 tomato
 lime
-garlic
 potato
